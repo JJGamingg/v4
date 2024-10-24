@@ -539,6 +539,12 @@ var games = [
     title: 'Raccoon Retail',
     url: 'https://www.coolmathgames.com/0-raccoon-retail/play',
     image: 'https://play-lh.googleusercontent.com/zI8P-Gej0l8WK9_rRrVJuHQfZqA97ncD1RCN8qdLbmwl0uxPI8o5JLBsnJz5hxLKTYE'
+  },
+  {
+    id: 'Ragdoll Hit',
+    title: 'Ragdoll Hit',
+    url: 'https://games.poki.com/458768/5c4828dc-d115-406f-b45e-378ff2736277?tag=pg-f%E2%80%A62199fe4%E2%80%A6&experiment=a-d50e9ec5&special_condition=landing',
+    image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/3c892779be9dabb3589586c83ad3eeed.png'
   }
 ]
 games.sort(function (a, b) {
